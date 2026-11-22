@@ -168,7 +168,9 @@
           "source": "lsp",
           "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustls-pki-types-1.14.0/src/server_name.rs"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/9741534153d47277d754a3254759360b36ee58fd/chunk-001.nq.gz",
+      "dep": "dep/9741534153d47277d754a3254759360b36ee58fd.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
