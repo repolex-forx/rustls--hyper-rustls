@@ -1,0 +1,11 @@
+{
+  "org": "rustls",
+  "repo": "hyper-rustls",
+  "versions": [
+    {
+      "commit": "9741534153d47277d754a3254759360b36ee58fd",
+      "tag": "v/0.27.9",
+      "parsed_at": "2026-11-22T11:54:23.528775+00:00"
+    }
+  ]
+}
